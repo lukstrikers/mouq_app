@@ -1,0 +1,183 @@
+{
+  "people": [
+    {
+      "nom": "mouquet",
+      "prenom": "lucas",
+      "date de naissance": "13 decembre 2001",
+      "Num Tel": "0783875213",
+      "Adresse": "1 rue baden powell 59130 lambersart",
+      "Mail": "lucas.mouquet.lm@gmail.com",
+      "Identifiant Bien Etre": "",
+      "type presta": "",
+      "divers infos": "je px mettre ce que je veux"
+    },
+    {
+      "nom": "bakary",
+      "prenom": "patricia",
+      "date de naissance": "09 mai 1968",
+      "Num Tel": "0663000730",
+      "Adresse": "1 rue baden powell 59130 lambersart",
+      "Mail": "patricia.baakary.pb@gmail.com",
+      "Identifiant Bien Etre": "",
+      "type presta": "soin",
+      "divers infos": "je px mettre ce que je veux"
+    },
+    {
+      "nom": "mouquet",
+      "prenom": "lise",
+      "date de naissance": "16 avril 1996",
+      "Num Tel": "0635753485",
+      "Adresse": "Suisse",
+      "Mail": "lise.mouquet@gmail.com",
+      "Identifiant Bien Etre": "",
+      "type presta": "jspn",
+      "divers infos": "je px mettre ce que je veux"
+    }
+  ],
+  "depliant": [
+    {
+      "Prestation": "soin beaute eclat",
+      "Prix": "30\u20ac"
+    },
+    {
+      "Prestation": "soin aerien",
+      "prix": "42\u20ac"
+    },
+    {
+      "Prestation": "soin rosee matinale",
+      "prix": "47\u20ac"
+    },
+    {
+      "Prestation": "soin eveil des sens",
+      "prix": "55\u20ac"
+    },
+    {
+      "Prestation": "soin souffle magique",
+      "prix": "59\u20ac"
+    },
+    {
+      "Prestation": "soin specifique yeux-levres",
+      "prix": "22\u20ac"
+    },
+    {
+      "Prestation": "soin eclat sans soleil",
+      "prix": ""
+    },
+    {
+      "Prestation": "gommage corps",
+      "prix": "45\u20ac"
+    },
+    {
+      "Prestation": "soin enveloppant",
+      "prix": "60\u20ac"
+    },
+    {
+      "Prestation": "soin nettoyant du dos",
+      "prix": "30\u20ac"
+    },
+    {
+      "Prestation": "modelage du dos anti-tension",
+      "prix": "30\u20ac"
+    },
+    {
+      "Prestation": "modelage corps",
+      "prix": "55\u20ac"
+    },
+    {
+      "Prestation": "modelage orient",
+      "prix": "70\u20ac"
+    },
+    {
+      "Prestation": "soin remodelant starvac",
+      "prix": "52\u20ac"
+    },
+    {
+      "Prestation": "sourcils",
+      "prix": "9\u20ac"
+    },
+    {
+      "Prestation": "sourcils a la pince",
+      "prix": "7\u20ac"
+    },
+    {
+      "Prestation": "levres",
+      "prix": "7\u20ac"
+    },
+    {
+      "Prestation": "visage",
+      "prix": "19\u20ac"
+    },
+    {
+      "Prestation": "aisselles",
+      "prix": "10\u20ac"
+    },
+    {
+      "Prestation": "demi-jambes",
+      "prix": "18\u20ac"
+    },
+    {
+      "Prestation": "cuisses",
+      "prix": "20\u20ac"
+    },
+    {
+      "Prestation": "jambes completes",
+      "prix": "24\u20ac"
+    },
+    {
+      "Prestation": "demi-bras",
+      "prix": "15\u20ac"
+    },
+    {
+      "Prestation": "bras entiers",
+      "prix": "17\u20ac"
+    },
+    {
+      "Prestation": "maillot classique",
+      "prix": "12\u20ac"
+    },
+    {
+      "Prestation": "maillot bresilien",
+      "prix": "17\u20ac"
+    },
+    {
+      "Prestation": "maillot integral",
+      "prix": "28\u20ac"
+    },
+    {
+      "Prestation": "teinture des cils",
+      "prix": "17\u20ac"
+    },
+    {
+      "Prestation": "permanente des cils",
+      "prix": "27\u20ac"
+    },
+    {
+      "Prestation": "Teinture et permanente des cils",
+      "prix": "36\u20ac"
+    },
+    {
+      "Prestation": "maquillage",
+      "prix": "jour:20\u20ac / soir:25\u20ac / mariee:28\u20ac"
+    },
+    {
+      "Prestation": "french manucure",
+      "prix": "12\u20ac"
+    },
+    {
+      "Prestation": "bain manucure-gommage",
+      "prix": "27\u20ac"
+    },
+    {
+      "Prestation": "pose de vernis semi-permanent",
+      "prix": "25\u20ac"
+    },
+    {
+      "Prestation": "pose de vernis classique",
+      "prix": "6\u20ac"
+    },
+    {
+      "Prestation": "soin ongles et pieds",
+      "prix": "36\u20ac"
+    }
+  ]
+}

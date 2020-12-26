@@ -1,0 +1,43 @@
+{
+  "people": [
+    {
+      "nom": "mouquet",
+      "prenom": "lucas",
+      "date de naissance": "13 decembre 2001",
+      "Num Tel": "0783875213",
+      "Adresse": "1 rue baden powell 59130 lambersart",
+      "Mail": "lucas.mouquet.lm@gmail.com",
+      "Identifiant Bien Etre": "",
+      "type presta": "",
+      "divers infos": "je px mettre ce que je veux"
+    },
+    {
+      "nom": "bakary",
+      "prenom": "patricia",
+      "date de naissance": "09 mai 1968",
+      "Num Tel": "0663000730",
+      "Adresse": "1 rue baden powell 59130 lambersart",
+      "Mail": "patricia.baakary.pb@gmail.com",
+      "Identifiant Bien Etre": "",
+      "type presta": "soin",
+      "divers infos": "je px mettre ce que je veux"
+    },
+    {
+      "nom": "mouquet",
+      "prenom": "lise",
+      "date de naissance": "16 avril 1996",
+      "Num Tel": "0635753485",
+      "Adresse": "Suisse",
+      "Mail": "lise.mouquet@gmail.com",
+      "Identifiant Bien Etre": "",
+      "type presta": "jspn",
+      "divers infos": "je px mettre ce que je veux"
+    }
+  ],
+  "depliant": [
+    {
+      "Prestation": "pr",
+      "Prix": ""
+    }
+  ]
+}

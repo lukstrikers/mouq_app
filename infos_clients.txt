@@ -1,0 +1,1658 @@
+{
+  "people": [
+    {
+      "nom": "Delespaul",
+      "prenom": "Aur\u00e9lie",
+      "date de naissance": "",
+      "Num Tel": "06 13 09 90 76",
+      "Adresse": "",
+      "Mail": "",
+      "Identifiant Bien Etre": "",
+      "mode de reglement": "",
+      "date de reglement": "",
+      "reste a payer": "",
+      "divers infos": "",
+      "list com": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ]
+      ],
+      "divers": ""
+    },
+    {
+      "nom": "Beyart",
+      "prenom": "Isabelle",
+      "date de naissance": "",
+      "Num Tel": "Isabelle",
+      "Adresse": "",
+      "Mail": "",
+      "Identifiant Bien Etre": "",
+      "mode de reglement": "",
+      "date de reglement": "",
+      "reste a payer": "",
+      "divers infos": "",
+      "list com": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ]
+      ],
+      "divers": ""
+    },
+    {
+      "nom": "Blancart",
+      "prenom": "Brigitte",
+      "date de naissance": "",
+      "Num Tel": "06 75 58 72 04",
+      "Adresse": "",
+      "Mail": "",
+      "Identifiant Bien Etre": "",
+      "mode de reglement": "",
+      "date de reglement": "",
+      "reste a payer": "",
+      "divers infos": "",
+      "list com": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ]
+      ],
+      "divers": ""
+    },
+    {
+      "nom": "Bouteliere",
+      "prenom": "Juliette",
+      "date de naissance": "",
+      "Num Tel": "06 33 07 74 17",
+      "Adresse": "",
+      "Mail": "",
+      "Identifiant Bien Etre": "",
+      "mode de reglement": "",
+      "date de reglement": "",
+      "reste a payer": "",
+      "divers infos": "",
+      "list com": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ]
+      ],
+      "divers": ""
+    },
+    {
+      "nom": "Bracq",
+      "prenom": "Claire",
+      "date de naissance": "",
+      "Num Tel": "06 15 13 04 95",
+      "Adresse": "",
+      "Mail": "",
+      "Identifiant Bien Etre": "",
+      "mode de reglement": "",
+      "date de reglement": "",
+      "reste a payer": "",
+      "divers infos": "",
+      "list com": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ]
+      ],
+      "divers": ""
+    },
+    {
+      "nom": "Bulteau",
+      "prenom": "Hel\u00e8ne",
+      "date de naissance": "",
+      "Num Tel": "06 58 75 87 60",
+      "Adresse": "",
+      "Mail": "",
+      "Identifiant Bien Etre": "",
+      "mode de reglement": "",
+      "date de reglement": "",
+      "reste a payer": "",
+      "divers infos": "",
+      "list com": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ]
+      ],
+      "divers": ""
+    },
+    {
+      "nom": "C\u00e9dric",
+      "prenom": "Jean",
+      "date de naissance": "",
+      "Num Tel": "06 09 91 51 01",
+      "Adresse": "",
+      "Mail": "",
+      "Identifiant Bien Etre": "",
+      "mode de reglement": "",
+      "date de reglement": "",
+      "reste a payer": "",
+      "divers infos": "",
+      "list com": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ]
+      ],
+      "divers": ""
+    },
+    {
+      "nom": "Charlotte",
+      "prenom": "C\u00e9loen",
+      "date de naissance": "",
+      "Num Tel": "06 88 68 78 58",
+      "Adresse": "",
+      "Mail": "",
+      "Identifiant Bien Etre": "",
+      "mode de reglement": "",
+      "date de reglement": "",
+      "reste a payer": "",
+      "divers infos": "",
+      "list com": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ]
+      ],
+      "divers": ""
+    },
+    {
+      "nom": "Corbusier",
+      "prenom": "B\u00e9atrice",
+      "date de naissance": "",
+      "Num Tel": "06 99 32 30 15",
+      "Adresse": "",
+      "Mail": "",
+      "Identifiant Bien Etre": "",
+      "mode de reglement": "",
+      "date de reglement": "",
+      "reste a payer": "",
+      "divers infos": "",
+      "list com": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ]
+      ],
+      "divers": ""
+    },
+    {
+      "nom": "Corbusier",
+      "prenom": "Cyrielle",
+      "date de naissance": "",
+      "Num Tel": "06 99 46 68 63",
+      "Adresse": "",
+      "Mail": "",
+      "Identifiant Bien Etre": "",
+      "mode de reglement": "",
+      "date de reglement": "",
+      "reste a payer": "",
+      "divers infos": "",
+      "list com": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ]
+      ],
+      "divers": ""
+    },
+    {
+      "nom": "Crystale",
+      "prenom": "?",
+      "date de naissance": "",
+      "Num Tel": "07 70 28 29 74",
+      "Adresse": "",
+      "Mail": "",
+      "Identifiant Bien Etre": "",
+      "mode de reglement": "",
+      "date de reglement": "",
+      "reste a payer": "",
+      "divers infos": "",
+      "list com": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ]
+      ],
+      "divers": ""
+    },
+    {
+      "nom": "Snith",
+      "prenom": "David",
+      "date de naissance": "",
+      "Num Tel": "06 20 74 75 07",
+      "Adresse": "",
+      "Mail": "",
+      "Identifiant Bien Etre": "",
+      "mode de reglement": "",
+      "date de reglement": "",
+      "reste a payer": "",
+      "divers infos": "",
+      "list com": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ]
+      ],
+      "divers": ""
+    },
+    {
+      "nom": "Degeay",
+      "prenom": "Isabelle",
+      "date de naissance": "",
+      "Num Tel": "06 24 79 33 64",
+      "Adresse": "13",
+      "Mail": "",
+      "Identifiant Bien Etre": "",
+      "mode de reglement": "",
+      "date de reglement": "",
+      "reste a payer": "",
+      "divers infos": "",
+      "list com": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ]
+      ],
+      "divers": ""
+    },
+    {
+      "nom": "Cordiez",
+      "prenom": "Marie-C\u00e9cile",
+      "date de naissance": "",
+      "Num Tel": "06 86 27 92 38",
+      "Adresse": "",
+      "Mail": "",
+      "Identifiant Bien Etre": "",
+      "mode de reglement": "",
+      "date de reglement": "",
+      "reste a payer": "",
+      "divers infos": "b",
+      "list com": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ]
+      ],
+      "divers": ""
+    },
+    {
+      "nom": "El Maddahi",
+      "prenom": "Yassmina",
+      "date de naissance": "",
+      "Num Tel": "06 49 09 55 21",
+      "Adresse": "",
+      "Mail": "ledjaledja@live.fr",
+      "Identifiant Bien Etre": "Passeport multi-prestations :\n-12 Soin visage\n-6 Epilations (1/2 jambes + Arss)\n-6 Soins Dos\n-3 Beaut\u00e9 pieds",
+      "mode de reglement": "Esp\u00e8ces",
+      "date de reglement": "03/07 : 500\u20ac et 23/10 : 280\u20ac",
+      "reste a payer": "/",
+      "divers infos": "Soins Visage (reste : 10) . Fait le :\n-03/07/2020\n-23/10/2020\n\nEpilations (reste : 4). Fait le :\n-03/07/2020\n-23/10/2020\n\nSoin Dos (reste : 4). Fait le :\n-03/07/2020\n-23/10/2020\n\nBeaut\u00e9 Pieds (reste : 3). Fait le :",
+      "list com": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ]
+      ],
+      "divers": ""
+    },
+    {
+      "nom": "Foret",
+      "prenom": "Val\u00e9rie",
+      "date de naissance": "",
+      "Num Tel": "06 75 53 51 46",
+      "Adresse": "11 rue Simone veil 59152 Anstaing",
+      "Mail": "foret.herve@orange.fr",
+      "Identifiant Bien Etre": "Passeport Epilation x12 (10 + 2) 1/2 Jambes + Maillot Int\u00e9grale  + aisselles",
+      "mode de reglement": "Virement",
+      "date de reglement": "le 15 avril 2020 : 380\u20ac",
+      "reste a payer": "/",
+      "divers infos": "Epilation(reste : 7) fait le :\n-20/05/2020\n-10/06/20\n-05/07/20\n-10/09/20\n-14/10-20",
+      "list com": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ]
+      ],
+      "divers": ""
+    },
+    {
+      "nom": "Foret",
+      "prenom": "Herv\u00e9",
+      "date de naissance": "",
+      "Num Tel": "06 81 36 71 86",
+      "Adresse": "11 rue Simone veil 59152 Anstaing",
+      "Mail": "foret.herve@orange.fr",
+      "Identifiant Bien Etre": "Passeport Epilation (10 + 2) Aisselles + Maillot Int",
+      "mode de reglement": "Virement : 380\u20ac",
+      "date de reglement": "27/04/18",
+      "reste a payer": "/",
+      "divers infos": "(reste :1) Fait le :\n1) -27/04-18\n2) -30/06/18\n3) -29/09/18\n4) -15/12/18\n\n5) -09/03/19\n6) -04/05/19\n7) -20/07/19\n8) -25/09/19\n\n9) - Janvier 2020\n10) -20/05/2020\n11) -05/07/2020",
+      "list com": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ]
+      ],
+      "divers": ""
+    },
+    {
+      "nom": "Brelle",
+      "prenom": "Marjorie",
+      "date de naissance": "",
+      "Num Tel": "06 84 86 84 82",
+      "Adresse": "",
+      "Mail": "marjorie.brelle@gmail.com",
+      "Identifiant Bien Etre": "Passeport multi-prestation : \n-Epilation x10\n-Soin Jambes lourdes x6\n-Soin visage x1\n-Soin Corps x1 (Massage)",
+      "mode de reglement": "Ch\u00e8que : 448 \u20ac",
+      "date de reglement": "27/12/19",
+      "reste a payer": "/",
+      "divers infos": "Soin visage (reste : 0) Fait le :\n-27/12\n\nSoin Corps (reste : 0) Fait le :\n-27/12\n\nSoin Jambes Lourdes (reste : 4) Fait le :\n-28/11/19\n-23/10/20\n\nEpilation (reste : 2) Fait le :\n-27/12/19\n-18/02/20\n-22/05/20\n-18/06/20\n-23/07/20\n-28/08/20\n-24/09/20\n-23/10/20",
+      "list com": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ]
+      ],
+      "divers": ""
+    },
+    {
+      "nom": "Taverdet",
+      "prenom": "Marie",
+      "date de naissance": "",
+      "Num Tel": "06 75 48 24 09",
+      "Adresse": "Linselles",
+      "Mail": "marie.taverdet@outlook.fr",
+      "Identifiant Bien Etre": "1) Passeport Massage :\n\tx5 Massage (1h)\n\n2) Passeport Soin visage :\n\tx6 Soin Visage",
+      "mode de reglement": "Massage : Virement : 150\u20ac / Carte Duo Ch\u00e8que (Par Fabienne) : 550\u20ac",
+      "date de reglement": "30/11/19",
+      "reste a payer": "/",
+      "divers infos": "Massage (reste : 3) Fait le :\n-14/03/20\n-17/09/20\n\nSoin Visage (reste : 0) Fait le :\n-10/05/19\n-08/06/19\n-30/12/19\n-14/03/20\n-08/07/20\n-03/09/20",
+      "list com": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ]
+      ],
+      "divers": ""
+    },
+    {
+      "nom": "Taverdet",
+      "prenom": "Th\u00e9o",
+      "date de naissance": "",
+      "Num Tel": "",
+      "Adresse": "",
+      "Mail": "",
+      "Identifiant Bien Etre": "Passeport Partag\u00e9 avec Marie Soin visage:\n\n-6 SV\n",
+      "mode de reglement": "Voir FIche Marie",
+      "date de reglement": "Voir FIche Marie",
+      "reste a payer": "/",
+      "divers infos": "Soin Visage (reste : 2) Fait le :\n-17/05/19\n- Juin 2019\n-23/12/19\n-11/06/20",
+      "list com": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ]
+      ],
+      "divers": ""
+    },
+    {
+      "nom": "Taverdet / Delacre",
+      "prenom": "Fabienne",
+      "date de naissance": "",
+      "Num Tel": "06 99 07 45 91",
+      "Adresse": "Linselles",
+      "Mail": "fabienne.taverdet@gmail.com",
+      "Identifiant Bien Etre": "Passeport Partag\u00e9 (Mme Delacre) Soin Visage (10 +2)",
+      "mode de reglement": "Ch\u00e8que : 550\u20ac",
+      "date de reglement": "30/11",
+      "reste a payer": "/",
+      "divers infos": "Soin Visage (reste : 3) Fait le :\n-30/11/19\n-05/06/20\n-16/09/20\n\nDelacre (reste : 3) Fait le :\n-28/01/20\n-11/06/20\n-07/10/20",
+      "list com": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ]
+      ],
+      "divers": ""
+    },
+    {
+      "nom": "Guilmain",
+      "prenom": "Joe",
+      "date de naissance": "",
+      "Num Tel": "06 88 53 97 73",
+      "Adresse": "3 rue des Alpes 59840 Premesques",
+      "Mail": "joeguilmain@orange.fr",
+      "Identifiant Bien Etre": "Passeport Epilation (10 + 2) 1/2 Jambes",
+      "mode de reglement": "Virement : 300\u20ac",
+      "date de reglement": "Mai 2020",
+      "reste a payer": "/",
+      "divers infos": "Epilation (reste : 6) Fait le :\n-20/05/20\n-20/05/20 (Camille)\n-23/06/20\n-23/07/20\n-07/08/20\n-10/09/20",
+      "list com": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ]
+      ],
+      "divers": ""
+    },
+    {
+      "nom": "Houba",
+      "prenom": "Soumia",
+      "date de naissance": "",
+      "Num Tel": "06 64 04 49 19",
+      "Adresse": "",
+      "Mail": "",
+      "Identifiant Bien Etre": "Passeport 3 Massage",
+      "mode de reglement": "Esp\u00e8ces",
+      "date de reglement": "20/07/19",
+      "reste a payer": "/",
+      "divers infos": "Passeport Termin\u00e9. Fait le :\n-20/07/19\n-30/12/19\n-17/07/20",
+      "list com": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ]
+      ],
+      "divers": ""
+    },
+    {
+      "nom": "Arrazaouaki",
+      "prenom": "Oph\u00e9lie",
+      "date de naissance": "",
+      "Num Tel": "07 82 91 24 95",
+      "Adresse": "6 rue du Bazinghien 59000 Lille",
+      "Mail": "opheliearrazouaki@gmail.com",
+      "Identifiant Bien Etre": "Passeport (x10) Epilation + Maillot Int\u00e9gral + Visage + Aisselles + Fesses + Nez",
+      "mode de reglement": "Ch\u00e8que : 370\u20ac",
+      "date de reglement": "10/06/20",
+      "reste a payer": "/",
+      "divers infos": "Passeport (reste : 7) Fait le :\n-10/06/20\n-06/08-20\n-02/10/20",
+      "list com": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ]
+      ],
+      "divers": ""
+    },
+    {
+      "nom": "Schoodermark",
+      "prenom": "Anita",
+      "date de naissance": "",
+      "Num Tel": "06 22 78 20 63",
+      "Adresse": "Villeneuve d'Ascq",
+      "Mail": "anitaschoodermark@gmail.com",
+      "Identifiant Bien Etre": "Passeport Multi-Presta (x6):\n-Soin Visage\n-Soin Dos\n-Teinture Sourcils",
+      "mode de reglement": "Ch\u00e8que : 500\u20ac",
+      "date de reglement": "04/03/20",
+      "reste a payer": "/",
+      "divers infos": "Passeport (reste : 2). Fait le :\n-04/03/20\n-05/06/20\n-08/07/20\n-12/09/20",
+      "list com": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ]
+      ],
+      "divers": ""
+    },
+    {
+      "nom": "Mayouf",
+      "prenom": "Nass\u00e9ra",
+      "date de naissance": "",
+      "Num Tel": "06 27 43 08 92",
+      "Adresse": "45 rue de la pr\u00e9voyance 59700 Marcq En Baroeul",
+      "Mail": "mayouf.nassera@yahoo.fr",
+      "Identifiant Bien Etre": "Passeport 12 Epilation (1/2 Jambes + Maillot + Aisselles)",
+      "mode de reglement": "Ch\u00e8que : 450\u20ac",
+      "date de reglement": "09/07 et 07/08",
+      "reste a payer": "/",
+      "divers infos": "Passeport (reste : 7). Fait le :\n-09/07/20\n-06/08/20\n-28/08/20\n-24/09/20\n-20/10/20",
+      "list com": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ]
+      ],
+      "divers": ""
+    },
+    {
+      "nom": "Thooris",
+      "prenom": "Marie-Catherine",
+      "date de naissance": "",
+      "Num Tel": "06 89 19 26 08",
+      "Adresse": "",
+      "Mail": "mariecath-t@wanadoo.fr",
+      "Identifiant Bien Etre": "Passeport x5 Massage  (1h)",
+      "mode de reglement": "Virement : 180\u20ac",
+      "date de reglement": "27 Septembre",
+      "reste a payer": "/",
+      "divers infos": "Passeport (reste : 5). Fait le :",
+      "list com": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ]
+      ],
+      "divers": ""
+    },
+    {
+      "nom": "Dollet",
+      "prenom": "Isabelle",
+      "date de naissance": "",
+      "Num Tel": "06 84 17 73 57",
+      "Adresse": "",
+      "Mail": "ginko5@msn.com",
+      "Identifiant Bien Etre": "Passeport multi-presta:\n-1 carte de 5 massages Orient (2h) / (Massage Cr\u00e2nien + R\u00e9flexo-Plantaire)\n-1 Spa Bien \u00catre 3h ( Gommage + Massage + Envelloppement)\n-Rituel Bien \u00catre 2h ( Gommage + Massage )",
+      "mode de reglement": "Virement : 484\u20ac",
+      "date de reglement": "02/07/20",
+      "reste a payer": "/",
+      "divers infos": "Carte 5 Massage :\n1) Commence le Jeudi 29/10/20",
+      "list com": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ],
+        [
+          "Nom de la prestation",
+          0,
+          ""
+        ]
+      ],
+      "divers": ""
+    },
+    {
+      "nom": "mouqut",
+      "prenom": "luc",
+      "date de naissance": "",
+      "Num Tel": "",
+      "Adresse": "",
+      "Mail": "",
+      "Identifiant Bien Etre": "Passeport : \n     3 Prestation :\n         -6 soin eclat sans soleil\n         -6 soin rosee matinale\n         -6 soin remodelant starvac",
+      "mode de reglement": "",
+      "date de reglement": "",
+      "reste a payer": "",
+      "divers infos": " Prestation :\n         - il reste : 0 soin eclat sans soleil\n                 -Faite le : \n         - il reste : 5 soin rosee matinale\n                -Faite le : \n         - il reste : 4 soin remodelant starvac\n                -Faite le : ",
+      "list com": [
+        3,
+        6,
+        5,
+        2,
+        5,
+        13,
+        5,
+        0,
+        0,
+        0,
+        0,
+        [
+          "soin eclat sans soleil",
+          0,
+          ""
+        ],
+        [
+          "soin rosee matinale",
+          5,
+          ""
+        ],
+        [
+          "soin remodelant starvac",
+          4,
+          ""
+        ],
+        [
+          "soin beaute eclat",
+          0,
+          ""
+        ],
+        [
+          "soin beaute eclat",
+          0,
+          ""
+        ]
+      ],
+      "divers": ""
+    }
+  ],
+  "depliant": [
+    {
+      "Prestation": "soin beaute eclat",
+      "Prix": "30\u20ac"
+    },
+    {
+      "Prestation": "soin aerien",
+      "prix": "42\u20ac"
+    },
+    {
+      "Prestation": "soin rosee matinale",
+      "prix": "47\u20ac"
+    },
+    {
+      "Prestation": "soin eveil des sens",
+      "prix": "55\u20ac"
+    },
+    {
+      "Prestation": "soin souffle magique",
+      "prix": "59\u20ac"
+    },
+    {
+      "Prestation": "soin specifique yeux-levres",
+      "prix": "22\u20ac"
+    },
+    {
+      "Prestation": "soin eclat sans soleil",
+      "prix": ""
+    },
+    {
+      "Prestation": "gommage corps",
+      "prix": "45\u20ac"
+    },
+    {
+      "Prestation": "soin enveloppant",
+      "prix": "60\u20ac"
+    },
+    {
+      "Prestation": "soin nettoyant du dos",
+      "prix": "30\u20ac"
+    },
+    {
+      "Prestation": "modelage du dos anti-tension",
+      "prix": "30\u20ac"
+    },
+    {
+      "Prestation": "modelage corps",
+      "prix": "55\u20ac"
+    },
+    {
+      "Prestation": "modelage orient",
+      "prix": "70\u20ac"
+    },
+    {
+      "Prestation": "soin remodelant starvac",
+      "prix": "52\u20ac"
+    },
+    {
+      "Prestation": "sourcils",
+      "prix": "9\u20ac"
+    },
+    {
+      "Prestation": "sourcils a la pince",
+      "prix": "7\u20ac"
+    },
+    {
+      "Prestation": "levres",
+      "prix": "7\u20ac"
+    },
+    {
+      "Prestation": "visage",
+      "prix": "19\u20ac"
+    },
+    {
+      "Prestation": "aisselles",
+      "prix": "10\u20ac"
+    },
+    {
+      "Prestation": "demi-jambes",
+      "prix": "18\u20ac"
+    },
+    {
+      "Prestation": "cuisses",
+      "prix": "20\u20ac"
+    },
+    {
+      "Prestation": "jambes completes",
+      "prix": "24\u20ac"
+    },
+    {
+      "Prestation": "demi-bras",
+      "prix": "15\u20ac"
+    },
+    {
+      "Prestation": "bras entiers",
+      "prix": "17\u20ac"
+    },
+    {
+      "Prestation": "maillot classique",
+      "prix": "12\u20ac"
+    },
+    {
+      "Prestation": "maillot bresilien",
+      "prix": "17\u20ac"
+    },
+    {
+      "Prestation": "maillot integral",
+      "prix": "28\u20ac"
+    },
+    {
+      "Prestation": "teinture des cils",
+      "prix": "17\u20ac"
+    },
+    {
+      "Prestation": "permanente des cils",
+      "prix": "27\u20ac"
+    },
+    {
+      "Prestation": "Teinture et permanente des cils",
+      "prix": "36\u20ac"
+    },
+    {
+      "Prestation": "maquillage",
+      "prix": "jour:20\u20ac / soir:25\u20ac / mariee:28\u20ac"
+    },
+    {
+      "Prestation": "french manucure",
+      "prix": "12\u20ac"
+    },
+    {
+      "Prestation": "bain manucure-gommage",
+      "prix": "27\u20ac"
+    },
+    {
+      "Prestation": "pose de vernis semi-permanent",
+      "prix": "25\u20ac"
+    },
+    {
+      "Prestation": "pose de vernis classique",
+      "prix": "6\u20ac"
+    },
+    {
+      "Prestation": "soin ongles et pieds",
+      "prix": "36\u20ac"
+    }
+  ]
+}
